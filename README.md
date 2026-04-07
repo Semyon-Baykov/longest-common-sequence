@@ -32,6 +32,7 @@ python src/main.py data/example.in > data/example.out
 | `test8.in` | 750 | 0.174191 |
 | `test9.in` | 1000 | 0.314375 |
 | `test10.in` | 1500 | 0.765482 |
+
 ![Task 1 Graph](data/Question1_Graph.png)
 
 ## Question 2: Recurrence Equation
